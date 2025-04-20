@@ -1,20 +1,10 @@
 {
   "name": "coolnodeapp",
   "version": "1.0.0",
-  "description": "Node app",
-  "main": "api/hello.js",
+  "description": "Node app with serverless function",
+  "main": "api/index.js",
   "scripts": {
     "start": "vercel dev"
   },
-  "repository": {
-    "type": "git",
-    "url": ""
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": ""
-  },
-  "homepage": {},
   "dependencies": {}
 }
